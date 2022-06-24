@@ -1,0 +1,6 @@
+schema: VITE_API_URL
+
+documents: "./src/**/*.graphql"
+
+generates:
+  ./src/graphql/generated.ts:
